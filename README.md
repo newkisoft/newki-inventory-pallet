@@ -1,0 +1,2 @@
+# newki-inventory-pallet
+Pallets
